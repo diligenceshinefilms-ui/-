@@ -1,0 +1,6 @@
+{
+  "name": "GramSeva",
+  "description": "Gram Panchayat Nichpur (Kinwat, Nanded) - Official Citizen Services, Certificates, Tax Payment, Grievance Redressal and Village Development app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
